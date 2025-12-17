@@ -1,0 +1,17 @@
+
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+ <modelVersion>4.0.0</modelVersion>
+ <groupId>com.shl</groupId>
+ <artifactId>rag</artifactId>
+ <version>1.0</version>
+ <properties>
+  <java.version>17</java.version>
+ </properties>
+ <dependencies>
+  <dependency>
+   <groupId>org.springframework.boot</groupId>
+   <artifactId>spring-boot-starter-web</artifactId>
+   <version>3.2.5</version>
+  </dependency>
+ </dependencies>
+</project>
